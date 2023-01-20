@@ -22,7 +22,7 @@ There are no contribution guidelines for this project yet!
 ## Tests 
 There are no test instructions for this project yet!
 ## Questions
-Here is some contact information to find me! 
+For more information about the project you can reach me by email or checkout my github below!  
 
 [Github](https://www.github.com/AlbertoJL3)
 
